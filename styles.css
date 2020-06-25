@@ -1,0 +1,24 @@
+body
+{
+  background-color: #eaf6f6;
+}
+h3,h1
+{
+  padding-left: 5px;
+  color: #66bfbf;
+}
+p
+{
+  padding-left: 20px;
+}
+table
+{
+  padding-left: 20px;
+}
+hr
+{
+  color: grey;
+  border-width: 4px;
+  border-style: none;
+  border-top-style: dotted;
+}
