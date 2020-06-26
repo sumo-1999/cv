@@ -11,6 +11,11 @@ p
 {
   padding-left: 20px;
 }
+img
+{
+  background-color: #eaf6f6;
+  border-radius: 200px;
+}
 table
 {
   padding-left: 20px;
